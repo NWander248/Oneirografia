@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "ProjetoOneirografia",
+"productVersion": "0.1",
+"dataUrl": "Teste12.data.unityweb",
+"wasmCodeUrl": "Teste12.wasm.code.unityweb",
+"wasmFrameworkUrl": "Teste12.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.16f1"
+}
